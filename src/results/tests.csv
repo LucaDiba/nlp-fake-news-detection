@@ -1,0 +1,14 @@
+features,loss,optimizer,epochs,filename
+,binary_crossentropy,adam,5,./drive/MyDrive/CS 421/./results/results_1607097282.326436.csv
+,binary_crossentropy,sgd,5,./drive/MyDrive/CS 421/./results/results_1607098775.3510215.csv
+percentage_punctuation,binary_crossentropy,adam,5,./drive/MyDrive/CS 421/./results/results_1607101506.998139.csv
+percentage_uppercase,binary_crossentropy,adam,5,./drive/MyDrive/CS 421/./results/results_1607103007.7171109.csv
+"percentage_punctuation,percentage_uppercase",binary_crossentropy,adam,5,./drive/MyDrive/CS 421/./results/results_1607104495.1677566.csv
+,binary_crossentropy,adam,10,./drive/MyDrive/CS 421/./results/results_1607108920.7799668.csv
+,binary_crossentropy,adam,20,./drive/MyDrive/CS 421/./results/results_1607114853.1603158.csv
+percentage_punctuation,binary_crossentropy,adam,10,./drive/MyDrive/CS 421/./results/results_1607117869.2251015.csv
+percentage_punctuation,binary_crossentropy,adam,20,./drive/MyDrive/CS 421/./results/results_1607123842.1551955.csv
+percentage_uppercase,binary_crossentropy,adam,10,./drive/MyDrive/CS 421/./results/results_1607126848.2722445.csv
+percentage_uppercase,binary_crossentropy,adam,20,./drive/MyDrive/CS 421/./results/results_1607169573.7067382.csv
+"percentage_punctuation,percentage_uppercase",binary_crossentropy,adam,10,./drive/MyDrive/CS 421/./results/results_1607172541.0589886.csv
+"percentage_punctuation,percentage_uppercase",binary_crossentropy,adam,20,./drive/MyDrive/CS 421/./results/results_1607178480.4414513.csv
